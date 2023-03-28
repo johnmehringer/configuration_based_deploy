@@ -1,0 +1,4 @@
+name: "colima"
+cloud_provider: "r3s"
+cloud_account: ""
+project: ""

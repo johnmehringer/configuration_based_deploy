@@ -1,0 +1,8 @@
+enabled: true
+namespace: "database-postgresql"
+helm_name: "postgresql-ha"
+chart_version: "11.1.5"
+database_name: "default"
+database_user: "default_user"
+volume_storage_class: "ephemeral"
+volume_storage_size: 5Gi

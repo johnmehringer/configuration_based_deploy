@@ -1,0 +1,3 @@
+enabled: true
+profile: "keycloak-with-openldap"
+namespace: identity

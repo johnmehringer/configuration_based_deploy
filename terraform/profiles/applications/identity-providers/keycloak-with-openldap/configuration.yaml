@@ -1,0 +1,4 @@
+namespace: keycloak-with-openldap
+database_volume_storage_space: "4Gi"
+database_user: "keycloak"
+database_name: "keycloak"

@@ -1,0 +1,5 @@
+enabled: true
+namespace: "monitoring"
+chart_version: "6.50.8"
+persistence_enabled: true
+volume_storage_class: "standard"

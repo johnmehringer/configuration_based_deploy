@@ -1,0 +1,5 @@
+enabled: true
+namespace: grafana
+chart_version: "6.50.8"
+persistence_enabled: true
+volume_storage_class: "standard"

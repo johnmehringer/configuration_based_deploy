@@ -1,0 +1,6 @@
+chart_version: "19.7.2"
+namespace: "prometheus"
+volume_size: "5Gi"
+volume_storage_class: "default"
+scrape_configs: []
+node_exporter_host_root_fs_mount: true
